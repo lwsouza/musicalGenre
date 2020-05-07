@@ -31,5 +31,6 @@ Para execução do código, segue o passo a passo:
 ### Rotas disponíveis 
 
 * Realizar a requisição com get
+    * / (Boas vindas)
     * /cidade/{city}
     * /estatistica
